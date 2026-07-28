@@ -49,7 +49,7 @@ BunchPressureQueueTheory/
 ├── README.md                           — This file
 ├── LICENSE                             — CC0 1.0 Universal
 ├── paper/
-│   └── BPQT_WhitePaper_v5_Final.docx  — Full research paper (two-column format)
+│   └── BPQT_WhitePaper_v7_Final_2      — Full research paper (two-column format)
 ├── notebooks/
 │   ├── V1_CoreThroughput.ipynb         — Foundational orderly vs bunch comparison
 │   ├── V2_PreRunAssessment.ipynb       — Capacity viability framework
@@ -158,7 +158,7 @@ Three-run validated (200,000 operations × 3 runs):
 Curry, J. (2026). Bunch Pressure Queue Theory: A Behavioral Framework for
 Characterizing Resource Scheduling Dynamics in Cloud and Cache Systems.
 Working Paper v5.0. Provisional Patent Filed July 2026.
-Zenodo. https://doi.org/10.5281/zenodo.21514017
+Zenodo. https://doi.org/10.5281/zenodo.21605846
 ```
 
 *Replace XXXXXXX with your actual Zenodo DOI*
